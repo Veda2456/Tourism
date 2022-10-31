@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-image1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg');
+    background-size: cover;
+    height: 90vh;
+}
+.tourism-card1{
+    background-color: white;
+    background-size: cover;
+    height: 15vh;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    text-align: center;
+}
+.heading1{
+    font-weight: bold;
+    padding:10px;
+}
+.button1{
+    height: 30px;
+    width: 120px;
+    background-color: #25b1cc;
+    border-radius: 25px;
+    color: white;
+    border-width: 0px;
+}
+.bg-container2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 8px;
+}
+.main-heading2{
+    color: white;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 10px;
+}
+.card-container2{
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+.heading2{
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: bold;
+    color: #0f0e46;
+}
+.para2{
+    color: #6c6b70;
+    font-family: Roboto;
+    font-size: 13px;
+}
+.card-image2{
+    height: 100px;
+    width: 80px;
+}
+.m-mar3{
+    margin: 10px;
+}
+.bg-image3{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height:100vh;
+    background-size: cover;
+}
+.main-heading3{
+    color:white;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 24px;
+}
+.bg-container3{
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+.card-heading3{
+    color: #0f0e46;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 23px;
+}
+.para3{
+    font-family: Roboto;
+    font-size: 13px;
+    color: #6c6b70;
+}
+.text-head-pad3{
+    padding: 16px;
+}
